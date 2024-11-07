@@ -2,7 +2,8 @@
 
 ## Instrucciones
 
-Se ha utilizado Python 3 como lenguaje de programación para desarrollar el ejercicio, utilizando Flask como librería para el desarrollo del endpoint.
+Se ha utilizado Python 3 como lenguaje de programación para desarrollar el ejercicio, utilizando Flask como librería para el desarrollo del endpoint, dado que es un lenguaje que proporciona sencillez y rápidez para el desarrollo de la tarea.
+A su vez, Flask permite generar la API para establecer el endpoint de manera sencilla.
 
 Se añade un archivo `requirements.txt` con las dependencias necesarias para ejecutar el proyecto.
 
